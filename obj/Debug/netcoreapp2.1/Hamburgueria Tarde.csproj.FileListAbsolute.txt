@@ -1,0 +1,31 @@
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\bin\Debug\netcoreapp2.1\Hamburgueria Tarde.deps.json
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\bin\Debug\netcoreapp2.1\Hamburgueria Tarde.runtimeconfig.json
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\bin\Debug\netcoreapp2.1\Hamburgueria Tarde.runtimeconfig.dev.json
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\bin\Debug\netcoreapp2.1\Hamburgueria Tarde.dll
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\bin\Debug\netcoreapp2.1\Hamburgueria Tarde.pdb
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\bin\Debug\netcoreapp2.1\Hamburgueria Tarde.Views.dll
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\bin\Debug\netcoreapp2.1\Hamburgueria Tarde.Views.pdb
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.csprojAssemblyReference.cache
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.csproj.CoreCompileInputs.cache
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.RazorAssemblyInfo.cache
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.RazorAssemblyInfo.cs
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.AssemblyInfoInputs.cache
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.AssemblyInfo.cs
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.TagHelpers.input.cache
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.TagHelpers.output.cache
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.RazorCoreGenerate.cache
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.RazorTargetAssemblyInfo.cache
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.RazorTargetAssemblyInfo.cs
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.Views.pdb
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.dll
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.pdb
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.csproj.CopyComplete
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_HeaderNavBar.g.cshtml.cs
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Razor\Views\Pedido\Index.g.cshtml.cs
