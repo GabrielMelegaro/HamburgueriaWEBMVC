@@ -5,7 +5,7 @@
 </header>
 <main>
         <h2>Pede aí, jovem!</h2>
-        <form method="GET" action="index.html">
+        <form method="POST" action="Pedido/RegistrarPedido">
             <div>
                 <label for="nome">Nome Completo</label>
                 <br />
@@ -21,19 +21,19 @@
             <div>
                 <label for="telefone">Telefone para contato</label>
                 <br />
-                <input id="telefone" type="text" />
+                <input id="telefone" type="text" name="telefone"/>
             </div>
 
             <div>
                 <label for="email">E-mail</label>
                 <br />
-                <input id="email" type="email" />
+                <input id="email" type="email" name="email"/>
             </div>
 
             <div class="double-field">
                 <div>
                     <label for="hamburguer">Hamburguer</label>
-                    <select id="hamburguer" required>
+                    <select id="hamburguer" name="hamburguer">
                         <option value="" disabled selected>Selecione</option>
                         <option value="furioso">Furioso</option>
                         <option value="combo">Combo</option>
@@ -41,7 +41,7 @@
                 </div>
                 <div>
                     <label for="shake">Shake</label>
-                    <select id="shake">
+                    <select id="shake" name="shake">
                         <option value="" disabled selected>Selecione</option>
                         <option>Chocolate</option>
                         <option>Biscoito</option>
