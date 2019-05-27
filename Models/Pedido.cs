@@ -9,5 +9,6 @@ namespace Hamburgueria_Tarde.Models
         public Hamburguer Hamburguer {get;set;}
         public Shake Shake {get;set;}
         public DateTime DataPedido {get;set;}
+        public double PrecoTotal {get;set;}
     }
 }

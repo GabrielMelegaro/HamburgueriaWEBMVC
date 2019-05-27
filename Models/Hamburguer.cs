@@ -2,12 +2,16 @@ using Microsoft.Extensions.Primitives;
 
 namespace Hamburgueria_Tarde.Models
 {
-    public class Hamburguer
+    public class Hamburguer : Produto
     {
-        
-        public Hamburguer(StringValues Nome){
-            this.Nome = Nome;
+        public Hamburguer()
+        {
         }
-        public string Nome {get;set;}
+
+        public Hamburguer(StringValues Nome, double Preco){
+            this.Nome = Nome;
+            this.Preco = Preco;
+        }
+        
     }
 }

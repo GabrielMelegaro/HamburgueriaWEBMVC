@@ -29,3 +29,4 @@ C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgu
 C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Hamburgueria Tarde.csproj.CopyComplete
 C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_HeaderNavBar.g.cshtml.cs
 C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Razor\Views\Pedido\Index.g.cshtml.cs
+C:\Users\47218167829\Desktop\Hamburgueria Tarde\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Sucesso.g.cshtml.cs

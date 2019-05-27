@@ -1,7 +1,7 @@
 namespace Hamburgueria_Tarde.Models
 {
-    public class Shake
+    public class Shake : Produto
     {
-        public string Nome {get;set;}
+        
     }
 }

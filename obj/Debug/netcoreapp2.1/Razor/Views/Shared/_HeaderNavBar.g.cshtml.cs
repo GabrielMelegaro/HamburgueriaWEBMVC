@@ -58,7 +58,7 @@ using Hamburgueria_Tarde.Models;
             WriteLiteral("<nav>\r\n    <div class=\"section-container\">\r\n        <ul>\r\n            <li>");
             EndContext();
             BeginContext(74, 72, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6151ea0dd20b4324a7edc5312438dd69", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7522af1cefdd4d898a74dc5b830d9350", async() => {
                 BeginContext(133, 9, true);
                 WriteLiteral("Principal");
                 EndContext();
@@ -127,7 +127,7 @@ WriteAttributeValue("", 431, Url.Action("Index", "Home"), 431, 28, false);
             WriteLiteral(">Local</a></li>\r\n            <li>");
             EndContext();
             BeginContext(499, 74, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "46170a98fb60427ea81255561013a6d9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "06d56aa2262646c2a004f4e6bd1fbd37", async() => {
                 BeginContext(561, 8, true);
                 WriteLiteral("Peça já!");
                 EndContext();
